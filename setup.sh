@@ -11,4 +11,4 @@ chmod 600 /root/.ssh/deploy_key
 ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
 
 # Clone autograder files
-git clone git@github.com:CSCE-12x/StringCalculator /autograder/autograder-code
+git clone git@github.com:Regen8/ritchey_string_cal.git /autograder/autograder-code
