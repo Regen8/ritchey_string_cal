@@ -185,7 +185,22 @@ string multiply(string lhs, string rhs) {
     }
     
     string count = "0";
-    while(true){}
+    string product = "0";
+    while(true){
+        if(count == lhs){
+            break;
+        }
+        count = add(count, "1");
+        product = add(product, rhs);
+    }
+    string signed_prod = "";
+    if(num_negatives == 1){
+        signed_prod = "-";
+        for(int i = 0; i < product.size(); i++){
+            signed_prod.push_back(product.at(i));
+        }
+        return signed_prod;
+    }
 
-    return "";
+    return product;
 }
