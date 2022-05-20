@@ -1,0 +1,206 @@
+String Calculator
+"q" or "quit" or ctrl+d to exit
+>> 
+ans =
+
+    10_2
+
+>> 
+ans =
+
+    a7c2da06_16
+
+>> 
+ans =
+
+    10110111110101000_2
+
+>> 
+ans =
+
+    101112112011_3
+
+>> 
+ans =
+
+    1201132300223133331_4
+
+>> 
+ans =
+
+    40430411130434_5
+
+>> 
+ans =
+
+    22522225513100_6
+
+>> 
+ans =
+
+    3042536051464212313155_7
+
+>> 
+ans =
+
+    245552462416613_8
+
+>> 
+ans =
+
+    3437233441626213787657_9
+
+>> 
+ans =
+
+    49295787989293220520
+
+>> 
+ans =
+
+    a1a1363566395a83_11
+
+>> 
+ans =
+
+    5879885306173_12
+
+>> 
+ans =
+
+    8538b471a2cc20_13
+
+>> 
+ans =
+
+    375db8285a455_14
+
+>> 
+ans =
+
+    2a771a1b80d5177ad575e_15
+
+>> 
+ans =
+
+    5d82e350955981_16
+
+>> 
+ans =
+
+    445g23e689ea6db_17
+
+>> 
+ans =
+
+    dc0a908e6d4eec_18
+
+>> 
+ans =
+
+    2fi0f4474cbg36hb2_19
+
+>> 
+ans =
+
+    967d9hc5i18jb6i2g470_20
+
+>> 
+ans =
+
+    cefec6f0gajg7jg_21
+
+>> 
+ans =
+
+    27a74edek94a4785c4_22
+
+>> 
+ans =
+
+    -60225hbb80g2jl803j14gee7_23
+
+>> 
+ans =
+
+    -593h9j083c8jl8k0_24
+
+>> 
+ans =
+
+    -h62boojojee22323ee_25
+
+>> 
+ans =
+
+    -1m00h3fdjhkbnc_26
+
+>> 
+ans =
+
+    -bkbk1apd7kpgp0nkm888ne_27
+
+>> 
+ans =
+
+    -qr8o7rcoe5fcrg23jqq9b_28
+
+>> 
+ans =
+
+    53fn6osa4a2era_29
+
+>> 
+ans =
+
+    c86ipn8cgllhni1_30
+
+>> 
+ans =
+
+    c771bb5oqegmc64hlb3k3l_31
+
+>> 
+ans =
+
+    53jntgdpnlmeqqqv88bi_32
+
+>> 
+ans =
+
+    c0j24a992bqc35ucic5ushesj6jm_33
+
+>> 
+ans =
+
+    13re2362lwqbju_34
+
+>> 
+ans =
+
+    mi0051du6h1119ovn74k6q5g_35
+
+>> 
+ans =
+
+    ck6r0scjdlt_36
+
+>> 
+ans =
+
+    jnmiz1ieorh01yp1yjfv71y0tipdx4ye7lz7a6hvfsko85y0aj8a_36
+
+>> 
+ans =
+
+    80541621388855165023916325879623464810918639095260919791360797595877486922996465609765144392206422533216486345388111300116882099294419281334734960618048257380126182566334786960550127275609888393464359
+
+>> 
+ans =
+
+    bfa5af97e75c682f92d676b5deacd8555a1724b49e5d81097c2eee227908eedg37ce5a8c8a88cca624594655db2756e77807b9abaf433685db249e8e69e96773b7cg9d1fb98bf77f798d8da4b42a66d57c67gb4dad894b99e545bfb918eb1f7da59f2dc9_17
+
+>> 
+farvel!
+
+

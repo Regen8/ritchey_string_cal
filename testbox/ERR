@@ -1,0 +1,4 @@
+string_calculator.cpp: In function ‘std::string trim_leading_zeros(std::string)’:
+string_calculator.cpp:70:22: warning: comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+   70 |     for(int i = 0; i < num.size(); i++){
+      |                    ~~^~~~~~~~~~~~

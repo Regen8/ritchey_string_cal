@@ -1,0 +1,15 @@
+String Calculator
+"q" or "quit" or ctrl+d to exit
+>> 
+ans =
+
+    48129
+
+>> 
+ans =
+
+    616628688
+
+>> 
+farvel!
+
